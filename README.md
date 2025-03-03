@@ -31,14 +31,14 @@ HTML: Structures the content of the application, including start, stop, reset bu
 CSS: Styles the application's interface, ensuring an aesthetic look and the ability to change colors.  
 
 
-##How It Works
+### How It Works
 Start/Stop: The user can start and stop the stopwatch using the start and stop buttons.  
 Reset: The reset button allows the user to reset the stopwatch.  
 Time Archive: After stopping the stopwatch, the measured time is saved in the archive, which is displayed on the page.  
 Color Change: The user can select their preferred interface color from the available options, allowing for personalization of the application's appearance.  
 
 
-##Additional Features
+### Additional Features
 Data Export: The ability to export saved times to a CSV file.  
 Sound Notifications: Optional sound notifications informing about the start and stop of the stopwatch.  
 Night Mode: An option to switch the interface to night mode, reducing eye strain when using the application in a dark environment.
