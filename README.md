@@ -38,10 +38,5 @@ Time Archive: After stopping the stopwatch, the measured time is saved in the ar
 Color Change: The user can select their preferred interface color from the available options, allowing for personalization of the application's appearance.  
 
 
-### Additional Features
-Data Export: The ability to export saved times to a CSV file.  
-Sound Notifications: Optional sound notifications informing about the start and stop of the stopwatch.  
-Night Mode: An option to switch the interface to night mode, reducing eye strain when using the application in a dark environment.
-
 The project helped me consolidate my existing knowledge and gain experience in writing code in JavaScript, HTML, and CSS. 
 
