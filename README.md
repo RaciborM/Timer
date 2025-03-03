@@ -15,14 +15,14 @@ Archive screen:
 
 This project was built during my Masters. It was my addicional learning and projects in web application sector.
 
-The Stopwatch is an internet application that allows users to measure time precisely. The application offers features such as an archive of recent times and the ability to change the interface color, allowing for personalization of the application's appearance.
+The Stopwatch is an internet application that allows users to measure time precisely. The application offers features such as an archive of recent times and the ability to change the interface color, allowing for personalization of the application's appearance.  
 
 
 ### Features
 Precise Time Measurement: Enables users to start, stop, and reset the stopwatch with millisecond accuracy.  
 Archive of Recent Times: Stores the history of recent measured times, allowing users to review and compare results.  
 Interface Color Change: Users can customize the interface color to their preferences by choosing from various available color themes.  
-Responsive Design: The application is optimized for various devices, including desktops, tablets, and smartphones.
+Responsive Design: The application is optimized for various devices, including desktops, tablets, and smartphones.  
 
 
 ### Technologies Used
