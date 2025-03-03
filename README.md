@@ -10,11 +10,11 @@ Instruction window:
 Archive screen:
 ![archiwum](https://github.com/user-attachments/assets/6a41616a-90e5-4161-9b6a-92f3aa588ad2)
 
-## Project Reflection
+##Project Reflection
 
 This project was built during my Masters. It was my addicional learning and projects in web application sector.
 
-The Web Stopwatch is an internet application that allows users to measure time precisely. The application offers features such as an archive of recent times and the ability to change the interface color, allowing for personalization of the application's appearance.
+The Stopwatch is an internet application that allows users to measure time precisely. The application offers features such as an archive of recent times and the ability to change the interface color, allowing for personalization of the application's appearance.
 
 ##Features
 Precise Time Measurement: Enables users to start, stop, and reset the stopwatch with millisecond accuracy.
